@@ -1,0 +1,7 @@
+*.dSYM
+*.o
+*.swp
+*.bt
+boat
+test_boat
+*.csv
